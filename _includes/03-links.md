@@ -1,1 +1,1 @@
-[My Git Hub]https://github.com/stan-ferguson
+[Git Hub]https://github.com
