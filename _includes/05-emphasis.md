@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Awesome attributes and skills of Stan Ferguson below...
+- **Splunk**
+- *Sumo Logic*
+- __Nessus__
+- _Kali_
